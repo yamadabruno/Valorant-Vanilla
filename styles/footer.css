@@ -1,0 +1,76 @@
+Color Theme Swatches in Hex 
+.Valorant-1-hex { color: #FD4556; }
+.Valorant-2-hex { color: #BD3944; }
+.Valorant-3-hex { color: #53212B; }
+.Valorant-4-hex { color: #FFFBF5; }
+.Valorant-5-hex { color: #000000; }
+
+.footer{
+     height: 400px;
+     background: #333;     
+}
+
+#section-logos{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+footer img{
+    width: 80px;
+    height: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer img:hover{
+    transform: scale(1.1);
+}    
+
+#project{
+    font-size: 14px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#project p{
+    color: rgb(152, 153, 153);
+    letter-spacing: 2px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+#container-collaborators{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+#contact-collaborators{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#contact-collaborators img{
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+}
+
+#section-collaborators{
+    text-align: center;
+}
+
+#section-collaborators p{
+    letter-spacing: 2px;
+}
