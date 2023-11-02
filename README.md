@@ -64,7 +64,4 @@ npm run start
    <img width='600'  src='./assets/v-2.png'>
    <h3> Tela de Mapas do jogo </h3>
    <img  width='600' src='./assets/v-3.png'>
-   <h3> Rodapé Opcional </h3>
-   <img  width='600' src='./assets/v-4.png'>
-
 </div>
